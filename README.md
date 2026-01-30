@@ -1,4 +1,3 @@
-# Cricbuzz-LiveStats-Real-Time-Cricket-Insights
 # 🏏 Cricbuzz LiveStats: Real-Time Cricket Insights & SQL-Based Analytics
 
 Cricbuzz LiveStats is an end-to-end cricket analytics web application that delivers real-time match updates, player statistics, and advanced SQL-driven insights using live data from the Cricbuzz API. The project combines API integration, database management, and interactive dashboards into a single learning-focused analytics platform.
